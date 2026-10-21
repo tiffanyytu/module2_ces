@@ -276,4 +276,4 @@ module2_ces/
 
 For more information about the artistic vision, design process, technical implementation, debugging, and AI support used during development, see the accompanying blog post:
 
-[Read the full project blog post]((https://app.notion.com/p/Module-2-4a34a92f475b83b6ab6b8109dd45c91b?source=copy_link))
+[Read the full project blog post]([(https://app.notion.com/p/Module-2-4a34a92f475b83b6ab6b8109dd45c91b?source=copy_link)])
