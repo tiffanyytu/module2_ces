@@ -262,7 +262,7 @@ module2_ces/
 
 ### Demo
 
-![Interactive Aquarium Demo](media/demo.gif)
+![Interactive Aquarium Demo](media/Adobe Express - mod2_screenrecord_trimmed.gif)
 
 ### Breadboard Setup
 
@@ -270,7 +270,7 @@ module2_ces/
 
 ### Final Setup
 
-![Final Setup](media/final-setup.jpg)
+![Final Setup](media/mod2finalsetup.png)
 
 ## More Information
 
