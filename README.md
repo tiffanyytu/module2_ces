@@ -6,6 +6,8 @@ The project explores the relationship between **control and emergence**. The use
 
 ![Project Demo](media/mod2_demo.gif)
 
+View the complete demo video here: https://youtu.be/vEsZt8gczJc
+
 ## About the Project
 
 The aquarium is controlled through three physical inputs:
