@@ -4,7 +4,7 @@ An interactive generative aquarium controlled using an ESP32, joystick, potentio
 
 The project explores the relationship between **control and emergence**. The user can influence the ecosystem, but the fish retain their own wandering and current-driven behavior.
 
-![Project Demo](media/demo.gif)
+![Project Demo](media/mod2_demo.gif)
 
 ## About the Project
 
@@ -30,7 +30,7 @@ The fish still pursue the attractor in all three environmental states, but their
 
 ## Circuit
 
-![Fritzing Circuit Diagram](media/fritzing-diagram.png)
+![Fritzing Circuit Diagram](media/mod2_fritz.png)
 
 ### Joystick
 
