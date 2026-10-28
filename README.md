@@ -30,7 +30,7 @@ The fish still pursue the attractor in all three environmental states, but their
 
 ## Circuit
 
-![Fritzing Circuit Diagram](media/mod2_fritz.png)
+![Fritzing Circuit Diagram](media/mod2_fritz.jpg)
 
 ### Joystick
 
