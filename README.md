@@ -254,10 +254,10 @@ module2_ces/
 │       └── mod2_aquarium.pde
 │
 └── media/
-    ├── demo.gif
-    ├── fritzing-diagram.png
+    ├── mod2_demo.gif
+    ├── mod2_fritz.png
     ├── breadboard.jpg
-    └── final-setup.jpg
+    └── mod2_finalsetup.png
 ```
 
 ## Documentation
